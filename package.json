@@ -1,0 +1,17 @@
+{
+  "name": "trabalho-final-de-aplicacoes-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "vue": "^3.4.29",
+    "vue-fullcalendar": "^1.0.9"
+  }
+}
